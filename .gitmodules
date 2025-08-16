@@ -1,0 +1,12 @@
+[submodule "absensi-mobile-apps"]
+	path = absensi-mobile-apps
+	url = git@github.com:fahrulfahmi/absensi-mobile-apps.git
+[submodule "absensi-frontend"]
+	path = absensi-frontend
+	url = git@github.com:fahrulfahmi/absensi-frontend.git
+[submodule "absensi-backend-py"]
+	path = absensi-backend-py
+	url = git@github.com:fahrulfahmi/absensi-backend-py.git
+[submodule "absensi-backend-go"]
+	path = absensi-backend-go
+	url = git@github.com:fahrulfahmi/absensi-backend-go.git
